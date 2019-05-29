@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CriandoVariaveisPontosFlutuantes_Double\bin\Debug\CriandoVariaveisPontosFlutuantes_Double.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CriandoVariaveisPontosFlutuantes_Double\bin\Debug\CriandoVariaveisPontosFlutuantes_Double.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CriandoVariaveisPontosFlutuantes_Double\bin\Debug\CriandoVariaveisPontosFlutuantes_Double.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CriandoVariaveisPontosFlutuantes_Double\obj\Debug\CriandoVariaveisPontosFlutuantes_Double.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CriandoVariaveisPontosFlutuantes_Double\obj\Debug\CriandoVariaveisPontosFlutuantes_Double.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CriandoVariaveisPontosFlutuantes_Double\obj\Debug\CriandoVariaveisPontosFlutuantes_Double.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CriandoVariaveisPontosFlutuantes_Double\obj\Debug\CriandoVariaveisPontosFlutuantes_Double.csprojAssemblyReference.cache

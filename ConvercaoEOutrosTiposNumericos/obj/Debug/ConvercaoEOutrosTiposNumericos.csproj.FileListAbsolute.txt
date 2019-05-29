@@ -1,0 +1,14 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\ConvercaoEOutrosTiposNumericos\bin\Debug\ConvercaoEOutrosTiposNumericos.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\ConvercaoEOutrosTiposNumericos\bin\Debug\ConvercaoEOutrosTiposNumericos.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\ConvercaoEOutrosTiposNumericos\bin\Debug\ConvercaoEOutrosTiposNumericos.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\ConvercaoEOutrosTiposNumericos\obj\Debug\ConvercaoEOutrosTiposNumericos.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\ConvercaoEOutrosTiposNumericos\obj\Debug\ConvercaoEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\ConvercaoEOutrosTiposNumericos\obj\Debug\ConvercaoEOutrosTiposNumericos.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\ConvercaoEOutrosTiposNumericos\obj\Debug\ConvercaoEOutrosTiposNumericos.pdb
+C:\aprendendoCSharp\ConvercaoEOutrosTiposNumericos\obj\Debug\ConvercaoEOutrosTiposNumericos.csprojAssemblyReference.cache
+C:\aprendendoCSharp\ConvercaoEOutrosTiposNumericos\obj\Debug\ConvercaoEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\aprendendoCSharp\ConvercaoEOutrosTiposNumericos\obj\Debug\ConvercaoEOutrosTiposNumericos.exe
+C:\aprendendoCSharp\ConvercaoEOutrosTiposNumericos\obj\Debug\ConvercaoEOutrosTiposNumericos.pdb
+C:\aprendendoCSharp\ConvercaoEOutrosTiposNumericos\bin\Debug\ConvercaoEOutrosTiposNumericos.exe.config
+C:\aprendendoCSharp\ConvercaoEOutrosTiposNumericos\bin\Debug\ConvercaoEOutrosTiposNumericos.exe
+C:\aprendendoCSharp\ConvercaoEOutrosTiposNumericos\bin\Debug\ConvercaoEOutrosTiposNumericos.pdb
