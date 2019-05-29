@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\CaracteresETextos\CaracteresETextos\bin\Debug\CaracteresETextos.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\CaracteresETextos\CaracteresETextos\bin\Debug\CaracteresETextos.exe
+C:\Users\GSP-SESMTR-02\source\repos\CaracteresETextos\CaracteresETextos\bin\Debug\CaracteresETextos.pdb
+C:\Users\GSP-SESMTR-02\source\repos\CaracteresETextos\CaracteresETextos\obj\Debug\CaracteresETextos.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\CaracteresETextos\CaracteresETextos\obj\Debug\CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\CaracteresETextos\CaracteresETextos\obj\Debug\CaracteresETextos.exe
+C:\Users\GSP-SESMTR-02\source\repos\CaracteresETextos\CaracteresETextos\obj\Debug\CaracteresETextos.pdb
