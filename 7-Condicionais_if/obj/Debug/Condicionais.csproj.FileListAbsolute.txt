@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\ConsoleApp1\Condicionais\obj\Debug\Condicionais.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\ConsoleApp1\Condicionais\obj\Debug\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\ConsoleApp1\Condicionais\bin\Debug\Condicionais.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\ConsoleApp1\Condicionais\bin\Debug\Condicionais.exe
+C:\Users\GSP-SESMTR-02\source\repos\ConsoleApp1\Condicionais\bin\Debug\Condicionais.pdb
+C:\Users\GSP-SESMTR-02\source\repos\ConsoleApp1\Condicionais\obj\Debug\Condicionais.exe
+C:\Users\GSP-SESMTR-02\source\repos\ConsoleApp1\Condicionais\obj\Debug\Condicionais.pdb

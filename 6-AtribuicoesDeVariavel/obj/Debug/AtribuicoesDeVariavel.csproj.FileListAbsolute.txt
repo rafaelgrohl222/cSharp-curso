@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AtribuicoesDeVariavel\AtribuicoesDeVariavel\bin\Debug\AtribuicoesDeVariavel.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AtribuicoesDeVariavel\AtribuicoesDeVariavel\bin\Debug\AtribuicoesDeVariavel.exe
+C:\Users\GSP-SESMTR-02\source\repos\AtribuicoesDeVariavel\AtribuicoesDeVariavel\bin\Debug\AtribuicoesDeVariavel.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AtribuicoesDeVariavel\AtribuicoesDeVariavel\obj\Debug\AtribuicoesDeVariavel.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AtribuicoesDeVariavel\AtribuicoesDeVariavel\obj\Debug\AtribuicoesDeVariavel.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AtribuicoesDeVariavel\AtribuicoesDeVariavel\obj\Debug\AtribuicoesDeVariavel.exe
+C:\Users\GSP-SESMTR-02\source\repos\AtribuicoesDeVariavel\AtribuicoesDeVariavel\obj\Debug\AtribuicoesDeVariavel.pdb
