@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\AprendendoCSharp\Condicionais_booleana\bin\Debug\Condicionais_booleana.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\AprendendoCSharp\Condicionais_booleana\bin\Debug\Condicionais_booleana.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\AprendendoCSharp\Condicionais_booleana\bin\Debug\Condicionais_booleana.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\AprendendoCSharp\Condicionais_booleana\obj\Debug\Condicionais_booleana.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\AprendendoCSharp\Condicionais_booleana\obj\Debug\Condicionais_booleana.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\AprendendoCSharp\Condicionais_booleana\obj\Debug\Condicionais_booleana.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\AprendendoCSharp\Condicionais_booleana\obj\Debug\Condicionais_booleana.pdb
