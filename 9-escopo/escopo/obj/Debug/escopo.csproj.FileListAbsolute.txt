@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\escopo\escopo\bin\Debug\escopo.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\escopo\escopo\bin\Debug\escopo.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\escopo\escopo\bin\Debug\escopo.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\escopo\escopo\obj\Debug\escopo.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\escopo\escopo\obj\Debug\escopo.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\escopo\escopo\obj\Debug\escopo.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\escopo\escopo\obj\Debug\escopo.pdb
