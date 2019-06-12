@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\condicionais_switch\condicionais_switch\bin\Debug\condicionais_switch.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\condicionais_switch\condicionais_switch\bin\Debug\condicionais_switch.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\condicionais_switch\condicionais_switch\bin\Debug\condicionais_switch.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\condicionais_switch\condicionais_switch\obj\Debug\condicionais_switch.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\condicionais_switch\condicionais_switch\obj\Debug\condicionais_switch.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\condicionais_switch\condicionais_switch\obj\Debug\condicionais_switch.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\condicionais_switch\condicionais_switch\obj\Debug\condicionais_switch.pdb

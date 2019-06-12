@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Condicionais_if_2\Condicionais_if_2\obj\Debug\Condicionais_if_2.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Condicionais_if_2\Condicionais_if_2\obj\Debug\Condicionais_if_2.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Condicionais_if_2\Condicionais_if_2\bin\Debug\Condicionais_if_2.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Condicionais_if_2\Condicionais_if_2\bin\Debug\Condicionais_if_2.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Condicionais_if_2\Condicionais_if_2\bin\Debug\Condicionais_if_2.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Condicionais_if_2\Condicionais_if_2\obj\Debug\Condicionais_if_2.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Condicionais_if_2\Condicionais_if_2\obj\Debug\Condicionais_if_2.pdb
