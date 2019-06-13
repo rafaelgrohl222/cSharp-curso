@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CalculaPoupanca_while\CalculaPoupanca_while\bin\Debug\CalculaPoupanca_while.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CalculaPoupanca_while\CalculaPoupanca_while\bin\Debug\CalculaPoupanca_while.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CalculaPoupanca_while\CalculaPoupanca_while\bin\Debug\CalculaPoupanca_while.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CalculaPoupanca_while\CalculaPoupanca_while\obj\Debug\CalculaPoupanca_while.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CalculaPoupanca_while\CalculaPoupanca_while\obj\Debug\CalculaPoupanca_while.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CalculaPoupanca_while\CalculaPoupanca_while\obj\Debug\CalculaPoupanca_while.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\CalculaPoupanca_while\CalculaPoupanca_while\obj\Debug\CalculaPoupanca_while.pdb
