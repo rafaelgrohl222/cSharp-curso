@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\p11-cauculaPoupanca2-for\p11-cauculaPoupanca2-for\bin\Debug\p11-cauculaPoupanca2-for.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\p11-cauculaPoupanca2-for\p11-cauculaPoupanca2-for\bin\Debug\p11-cauculaPoupanca2-for.exe
+C:\Users\GSP-SESMTR-02\source\repos\p11-cauculaPoupanca2-for\p11-cauculaPoupanca2-for\bin\Debug\p11-cauculaPoupanca2-for.pdb
+C:\Users\GSP-SESMTR-02\source\repos\p11-cauculaPoupanca2-for\p11-cauculaPoupanca2-for\obj\Debug\p11-cauculaPoupanca2-for.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\p11-cauculaPoupanca2-for\p11-cauculaPoupanca2-for\obj\Debug\p11-cauculaPoupanca2-for.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\p11-cauculaPoupanca2-for\p11-cauculaPoupanca2-for\obj\Debug\p11-cauculaPoupanca2-for.exe
+C:\Users\GSP-SESMTR-02\source\repos\p11-cauculaPoupanca2-for\p11-cauculaPoupanca2-for\obj\Debug\p11-cauculaPoupanca2-for.pdb
