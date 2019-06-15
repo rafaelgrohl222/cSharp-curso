@@ -18,10 +18,12 @@ namespace p11_cauculaPoupanca2_for
             //for = laço para
             for (int contadorMes = 1; contadorMes <= 12; contadorMes++)
             {
-                valorInvestido = valorInvestido * 1.0036;
+                //*= significa: pega o valor da variavel multiplica pelo valor: 1.0036 e guardar na variavel
+                valorInvestido *= 1.0036;
                 Console.WriteLine("Após " + contadorMes + " meses, você terá $" + valorInvestido);
             }
-
+            Console.WriteLine();//espaço
+            Console.WriteLine("Clique no ENTER para sair!");
             Console.ReadLine();//Aguardando o clique no enter para sair.
         }
     }

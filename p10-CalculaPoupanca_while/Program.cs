@@ -23,6 +23,8 @@ namespace CalculaPoupanca_while
                 //contadorMes += 1;//soma(2 em 2, 3 em 3, ...), recebe e guarda + 1
                 contadorMes++;//só soma + 1 e guarda na variavel
             }
+            Console.WriteLine();//espaço
+            Console.WriteLine("Clique no ENTER para sair!");
             Console.ReadLine();//aguardando o enter
         }
     }

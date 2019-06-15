@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaPoupanca_while", "CalculaPoupanca_while\CalculaPoupanca_while.csproj", "{28847FD3-42F7-4FD9-A67F-C1DEFCE17DB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaPoupanca_while", "CalculaPoupanca_while.csproj", "{28847FD3-42F7-4FD9-A67F-C1DEFCE17DB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {77F38C02-ADDA-4C70-A2D4-F7AE24F4D790}
+		SolutionGuid = {447AA67E-707B-4A72-AA85-06339B02DD59}
 	EndGlobalSection
 EndGlobal
