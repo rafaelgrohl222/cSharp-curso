@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Se\Cauculo_Condicionais_Se\bin\Debug\Cauculo_Condicionais_Se.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Se\Cauculo_Condicionais_Se\bin\Debug\Cauculo_Condicionais_Se.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Se\Cauculo_Condicionais_Se\bin\Debug\Cauculo_Condicionais_Se.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Se\Cauculo_Condicionais_Se\obj\Debug\Cauculo_Condicionais_Se.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Se\Cauculo_Condicionais_Se\obj\Debug\Cauculo_Condicionais_Se.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Se\Cauculo_Condicionais_Se\obj\Debug\Cauculo_Condicionais_Se.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Se\Cauculo_Condicionais_Se\obj\Debug\Cauculo_Condicionais_Se.pdb

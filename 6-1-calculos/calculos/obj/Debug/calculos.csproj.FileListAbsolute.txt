@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\calculos\calculos\bin\Debug\calculos.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\calculos\calculos\bin\Debug\calculos.exe
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\calculos\calculos\bin\Debug\calculos.pdb
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\calculos\calculos\obj\Debug\calculos.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\calculos\calculos\obj\Debug\calculos.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\calculos\calculos\obj\Debug\calculos.exe
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\calculos\calculos\obj\Debug\calculos.pdb

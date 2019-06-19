@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Switch\Cauculo_Condicionais_Switch\bin\Debug\Cauculo_Condicionais_Switch.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Switch\Cauculo_Condicionais_Switch\bin\Debug\Cauculo_Condicionais_Switch.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Switch\Cauculo_Condicionais_Switch\bin\Debug\Cauculo_Condicionais_Switch.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Switch\Cauculo_Condicionais_Switch\obj\Debug\Cauculo_Condicionais_Switch.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Switch\Cauculo_Condicionais_Switch\obj\Debug\Cauculo_Condicionais_Switch.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Switch\Cauculo_Condicionais_Switch\obj\Debug\Cauculo_Condicionais_Switch.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Cauculo_Condicionais_Switch\Cauculo_Condicionais_Switch\obj\Debug\Cauculo_Condicionais_Switch.pdb

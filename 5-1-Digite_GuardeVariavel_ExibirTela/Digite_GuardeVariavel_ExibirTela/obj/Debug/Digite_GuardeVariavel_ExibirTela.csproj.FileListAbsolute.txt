@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\Digite_GuardeVariavel_ExibirTela\Digite_GuardeVariavel_ExibirTela\bin\Debug\Digite_GuardeVariavel_ExibirTela.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\Digite_GuardeVariavel_ExibirTela\Digite_GuardeVariavel_ExibirTela\bin\Debug\Digite_GuardeVariavel_ExibirTela.exe
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\Digite_GuardeVariavel_ExibirTela\Digite_GuardeVariavel_ExibirTela\bin\Debug\Digite_GuardeVariavel_ExibirTela.pdb
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\Digite_GuardeVariavel_ExibirTela\Digite_GuardeVariavel_ExibirTela\obj\Debug\Digite_GuardeVariavel_ExibirTela.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\Digite_GuardeVariavel_ExibirTela\Digite_GuardeVariavel_ExibirTela\obj\Debug\Digite_GuardeVariavel_ExibirTela.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\Digite_GuardeVariavel_ExibirTela\Digite_GuardeVariavel_ExibirTela\obj\Debug\Digite_GuardeVariavel_ExibirTela.exe
+C:\Users\GSP-SESMTR-02\source\repos\aprendendoCSharp\Digite_GuardeVariavel_ExibirTela\Digite_GuardeVariavel_ExibirTela\obj\Debug\Digite_GuardeVariavel_ExibirTela.pdb
