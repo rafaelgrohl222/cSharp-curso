@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Calcular_while_switch\Calcular_while_switch\obj\Debug\Calcular_while_switch.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Calcular_while_switch\Calcular_while_switch\obj\Debug\Calcular_while_switch.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Calcular_while_switch\Calcular_while_switch\bin\Debug\Calcular_while_switch.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Calcular_while_switch\Calcular_while_switch\bin\Debug\Calcular_while_switch.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Calcular_while_switch\Calcular_while_switch\bin\Debug\Calcular_while_switch.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Calcular_while_switch\Calcular_while_switch\obj\Debug\Calcular_while_switch.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\Calcular_while_switch\Calcular_while_switch\obj\Debug\Calcular_while_switch.pdb
