@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\GuardaExibi_Array\GuardaExibi_Array\bin\Debug\GuardaExibi_Array.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\GuardaExibi_Array\GuardaExibi_Array\bin\Debug\GuardaExibi_Array.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\GuardaExibi_Array\GuardaExibi_Array\bin\Debug\GuardaExibi_Array.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\GuardaExibi_Array\GuardaExibi_Array\obj\Debug\GuardaExibi_Array.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\GuardaExibi_Array\GuardaExibi_Array\obj\Debug\GuardaExibi_Array.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\GuardaExibi_Array\GuardaExibi_Array\obj\Debug\GuardaExibi_Array.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\GuardaExibi_Array\GuardaExibi_Array\obj\Debug\GuardaExibi_Array.pdb
