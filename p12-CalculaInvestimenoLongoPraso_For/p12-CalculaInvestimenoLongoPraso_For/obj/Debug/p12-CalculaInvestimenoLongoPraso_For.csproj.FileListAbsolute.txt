@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\p12-CalculaInvestimenoLongoPraso_For\p12-CalculaInvestimenoLongoPraso_For\bin\Debug\p12-CalculaInvestimenoLongoPraso_For.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\p12-CalculaInvestimenoLongoPraso_For\p12-CalculaInvestimenoLongoPraso_For\bin\Debug\p12-CalculaInvestimenoLongoPraso_For.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\p12-CalculaInvestimenoLongoPraso_For\p12-CalculaInvestimenoLongoPraso_For\bin\Debug\p12-CalculaInvestimenoLongoPraso_For.pdb
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\p12-CalculaInvestimenoLongoPraso_For\p12-CalculaInvestimenoLongoPraso_For\obj\Debug\p12-CalculaInvestimenoLongoPraso_For.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\p12-CalculaInvestimenoLongoPraso_For\p12-CalculaInvestimenoLongoPraso_For\obj\Debug\p12-CalculaInvestimenoLongoPraso_For.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\p12-CalculaInvestimenoLongoPraso_For\p12-CalculaInvestimenoLongoPraso_For\obj\Debug\p12-CalculaInvestimenoLongoPraso_For.exe
+C:\Users\GSP-SESMTR-02\source\repos\AprendendoCSharp\p12-CalculaInvestimenoLongoPraso_For\p12-CalculaInvestimenoLongoPraso_For\obj\Debug\p12-CalculaInvestimenoLongoPraso_For.pdb
