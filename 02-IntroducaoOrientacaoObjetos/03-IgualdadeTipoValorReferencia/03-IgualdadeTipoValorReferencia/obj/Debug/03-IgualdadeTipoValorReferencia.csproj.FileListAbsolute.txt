@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\03-IgualdadeTipoValorReferencia\03-IgualdadeTipoValorReferencia\obj\Debug\03-IgualdadeTipoValorReferencia.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\03-IgualdadeTipoValorReferencia\03-IgualdadeTipoValorReferencia\obj\Debug\03-IgualdadeTipoValorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\03-IgualdadeTipoValorReferencia\03-IgualdadeTipoValorReferencia\bin\Debug\03-IgualdadeTipoValorReferencia.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\03-IgualdadeTipoValorReferencia\03-IgualdadeTipoValorReferencia\bin\Debug\03-IgualdadeTipoValorReferencia.exe
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\03-IgualdadeTipoValorReferencia\03-IgualdadeTipoValorReferencia\bin\Debug\03-IgualdadeTipoValorReferencia.pdb
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\03-IgualdadeTipoValorReferencia\03-IgualdadeTipoValorReferencia\obj\Debug\03-IgualdadeTipoValorReferencia.exe
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\03-IgualdadeTipoValorReferencia\03-IgualdadeTipoValorReferencia\obj\Debug\03-IgualdadeTipoValorReferencia.pdb

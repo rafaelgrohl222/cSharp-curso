@@ -1,0 +1,7 @@
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\02-CriarVariavelAtribuirValoresMostra\02-CriarVariavelAtribuirValoresMostra\bin\Debug\02-CriarVariavelAtribuirValoresMostra.exe.config
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\02-CriarVariavelAtribuirValoresMostra\02-CriarVariavelAtribuirValoresMostra\bin\Debug\02-CriarVariavelAtribuirValoresMostra.exe
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\02-CriarVariavelAtribuirValoresMostra\02-CriarVariavelAtribuirValoresMostra\bin\Debug\02-CriarVariavelAtribuirValoresMostra.pdb
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\02-CriarVariavelAtribuirValoresMostra\02-CriarVariavelAtribuirValoresMostra\obj\Debug\02-CriarVariavelAtribuirValoresMostra.csprojAssemblyReference.cache
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\02-CriarVariavelAtribuirValoresMostra\02-CriarVariavelAtribuirValoresMostra\obj\Debug\02-CriarVariavelAtribuirValoresMostra.csproj.CoreCompileInputs.cache
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\02-CriarVariavelAtribuirValoresMostra\02-CriarVariavelAtribuirValoresMostra\obj\Debug\02-CriarVariavelAtribuirValoresMostra.exe
+C:\Users\GSP-SESMTR-02\source\repos\IntroducaoOrientacaoObjetos2\02-CriarVariavelAtribuirValoresMostra\02-CriarVariavelAtribuirValoresMostra\obj\Debug\02-CriarVariavelAtribuirValoresMostra.pdb
